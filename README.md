@@ -29,7 +29,6 @@ Greetings! I am a Software Engineering student currently based in Togo. As a ded
 
 ## STATS 🤜
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostEsso&show_icons=true)](https://github.com/GhostEsso )
 
 ![](https://komarev.com/ghpvc/?username=GhostEsso&color=blue)
 
