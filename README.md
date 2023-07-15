@@ -16,7 +16,7 @@ Greetings! I am a Software Engineering student currently based in Togo. As a ded
 - 🌱 Learning all about <b>Full Stack-Development</b>.
 - 💬 Ping me about <b>HTML, CSS and JAVASCRIPT</b>.
 #### 📫 Reach me: <b> lilipitaham@gmail.com</b>
-#### Phone : <b> +22890516979/+22892289005</b>
+#### Whatsapp : <b> +22890516979</b>
 
 ## **Languages and Tools** 🛠 
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
