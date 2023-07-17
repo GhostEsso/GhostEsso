@@ -3,7 +3,7 @@
 **Always strive to exceed expectations by delivering more than what is required. Show kindness and respect towards others, and maintain unwavering trust in God in all circumstances.**
 
 ----
-Greetings! I am a Software Engineering student currently based in Togo. As a dedicated learner at Microverse, I am fully immersed in the dynamic field of full-stack web development. My passion lies in continuously refining my skills and creating innovative projects that push the boundaries of what is possible.
+Greetings! I am a Software Engineering student currently based in Togo. As a dedicated learner at Microverse, I am fully immersed in the dynamic field of full-stack web development and I am available for hire or open to new job opportunities. My passion lies in continuously refining my skills and creating innovative projects that push the boundaries of what is possible.
 
 ----
 <img src="https://media.tenor.com/UttC4AITYR4AAAAM/full-stack-developer.gif" style="width: 300px; height:150px;"> <img src="https://media.tenor.com/UToftFAfL1kAAAAM/web-development-web.gif" style="width: 300px; height:150px;">
