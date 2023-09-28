@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Essohanam Tambana
----
+--- 
 **Always strive to exceed expectations by delivering more than what is required. Show kindness and respect towards others, and maintain unwavering trust in God in all circumstances.**
 
 ----
