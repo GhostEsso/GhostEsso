@@ -10,7 +10,7 @@ Greetings! I am a Software Engineering student currently based in Togo. As a ded
 
 ## 👱‍♂️About Me :
 
-- 🏢 I'm currently working at <b> Microverse </b> as Student.
+- 🏢 I'm currently working on my professional skills at <b> Microverse </b>.
 - ⚙️ I use daily: <b> Visual Studio Code </b>.
 - 🌍 I'm mostly active within the <b> Microverse Community </b>.
 - 🌱 Learning all about <b> Full Stack-Development </b>.
