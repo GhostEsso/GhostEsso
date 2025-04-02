@@ -4,7 +4,7 @@
 
 ## 👱‍♂️About Me :
 
-- 🏢 I'm currently working on my personal projects.
+- 🏢 I'm currently working as FullStack Developper @ Kaba Delivery and on my personal projects.
 - ⚙️ I use daily: <b> Visual Studio Code </b>.
 - 🌍 I'm mostly active within the <b> Microverse Community </b>.
 - 🌱 Learning all about <b> Full Stack-Development </b>.
