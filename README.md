@@ -1,58 +1,134 @@
-### Hi 👋, I'm Essohanam Tambana
---- 
-**Always strive to exceed expectations by delivering more than what is required. Show kindness and respect towards others, and maintain unwavering trust in God in all circumstances.**
+<div align="center">
 
-## 👱‍♂️About Me :
+![CLASSIFIED](https://img.shields.io/badge/CLASSIFIED-TOP%20SECRET-b22222?style=for-the-badge)
+![CLEARANCE](https://img.shields.io/badge/CLEARANCE-FULL--STACK-4b5320?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-ACTIVE%20%2F%2F%20OPEN%20TO%20HIRE-2e7d32?style=for-the-badge)
 
-- 🏢 I'm currently working as FullStack Developper @ Kaba Delivery and on my personal projects.
-- ⚙️ I use daily: <b> Visual Studio Code </b>.
-- 🌍 I'm mostly active within the <b> Microverse Community </b>.
-- 🌱 Learning all about <b> Full Stack-Development </b>.
-- 💬 Ping me about <b> HTML, CSS and JAVASCRIPT, TYPESCRIPT </b>.
-#### 📫 Reach me: <b> lilipitaham@gmail.com</b>
-#### Whatsapp : <b> +22890516979</b>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=6B8E23&center=true&vCenter=true&width=640&lines=%3E+AUTHENTICATING...;%3E+ACCESS+GRANTED;%3E+OPENING+PERSONNEL+FILE+%23GHOST-ESSO;%3E+EYES+ONLY+%2F%2F+DO+NOT+FORK+WITHOUT+ORDERS)](https://github.com/GhostEsso)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
 
-## STATS 🤜
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║  DEPARTMENT OF SOFTWARE ENGINEERING  //  PERSONNEL FILE              ║
+║  FILE No. GH-2022-0930                    CLASSIFICATION: TOP SECRET ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  CODENAME ......... GHOST                                            ║
+║  LEGAL NAME ....... Essohanam TAMBANA                                ║
+║  RANK ............. Full-Stack Software Developer                    ║
+║  UNIT ............. Kaba Delivery                                    ║
+║  BASE ............. Lomé, Togo                                       ║
+║  ENLISTED ......... 2022-09-30 (GitHub)                              ║
+║  SPECIALTY ........ React · Ruby on Rails · TypeScript               ║
+║  SIDEARM .......... Visual Studio Code                               ║
+║  LAST SEEN ........ ████████████ (pushing to main at 02:00)          ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostEsso&show_icons=true)](https://github.com/GhostEsso )
+## 🎖️ CODE OF CONDUCT
 
-![](https://komarev.com/ghpvc/?username=GhostEsso&color=blue)
+> **Always strive to exceed expectations by delivering more than what is required. Show kindness and respect towards others, and maintain unwavering trust in God in all circumstances.**
 
+## 📁 SUBJECT PROFILE
 
-## Somethings here for you 😄:
-- 🔭 I’m currently working on....
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on...
-- 🤔 I’m looking for help with...
-- 💬 Ask me about...
-- 📫 How to reach me...
+| FIELD | INTEL |
+| :--- | :--- |
+| **CURRENT DEPLOYMENT** | Full-Stack Developer @ **Kaba Delivery**, plus personal side operations |
+| **ALLIED FORCES** | **Microverse Community** |
+| **ONGOING TRAINING** | Everything **Full-Stack Development** |
+| **INTERROGATE ABOUT** | **HTML, CSS, JavaScript, TypeScript** |
+| **THREAT LEVEL** | High, to bugs and legacy code |
 
+## 🧰 ARSENAL
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/essohanam-tambana-62aa081a1/)](https://www.linkedin.com/in/essohanam-tambana-62aa081a1/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TambanaEssohana)](https://twitter.com/TambanaEssohana)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=dev.to&logoColor=white&link=https://ghostesso.github.io/Portfolio-New-Setup/)](https://ghostesso.github.io/Portfolio-New-Setup/) 
+**Primary weapons: languages**
 
+![JavaScript](https://img.shields.io/badge/javascript-1b1f23?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-1b1f23?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Ruby](https://img.shields.io/badge/ruby-1b1f23?style=for-the-badge&logo=ruby&logoColor=CC342D)
+![HTML5](https://img.shields.io/badge/html5-1b1f23?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-1b1f23?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GhostEsso&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GhostEsso&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostEsso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Heavy artillery: frameworks and runtime**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GhostEsso&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![React](https://img.shields.io/badge/react-1b1f23?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/next.js-1b1f23?style=for-the-badge&logo=next.js&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-1b1f23?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)
+![NodeJS](https://img.shields.io/badge/node.js-1b1f23?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-1b1f23?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Chakra](https://img.shields.io/badge/chakra-1b1f23?style=for-the-badge&logo=chakraui&logoColor=4ED1C5)
+![Chart.js](https://img.shields.io/badge/chart.js-1b1f23?style=for-the-badge&logo=chart.js&logoColor=F5788D)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Supply lines: data**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GhostEsso&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Postgres](https://img.shields.io/badge/postgres-1b1f23?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/mongodb-1b1f23?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Prisma](https://img.shields.io/badge/prisma-1b1f23?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Field equipment: tooling**
+
+![JWT](https://img.shields.io/badge/jwt-1b1f23?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-1b1f23?style=for-the-badge&logo=githubactions&logoColor=2671E5)
+![Figma](https://img.shields.io/badge/figma-1b1f23?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+## 🗂️ FIELD OPERATIONS
+
+| OPERATION | THEATRE | BRIEFING | STATUS |
+| :--- | :--- | :--- | :--- |
+| [**OP. CARTOGRAPHER**](https://github.com/GhostEsso/carte-visualisation) | Next.js · TypeScript · Leaflet | Draw a zone on a map, extract and chart its OpenStreetMap points of interest | 🟢 DECLASSIFIED |
+| [**OP. SAFE HOUSE**](https://github.com/GhostEsso/ahoefa_rails) | Ruby on Rails · PostgreSQL | Real estate booking and management, with an admin dashboard | 🟢 DECLASSIFIED |
+| [**OP. FIELD RATIONS**](https://github.com/GhostEsso/foodie-rails) | Ruby on Rails · PostgreSQL | Neighbours sharing homemade meals, with authentication and real-time updates | 🟢 DECLASSIFIED |
+| [**OP. DIVIDE & CONQUER**](https://github.com/GhostEsso/micro-frontend-architecture) | JavaScript | Micro-frontend architecture with user permission management | 🟢 DECLASSIFIED |
+| [**OP. ARCHIVE**](https://github.com/GhostEsso/Awesome-Books) | JavaScript | Manage a book collection: add, edit, remove | 🟢 DECLASSIFIED |
+| **OP. ████████** | ██████ | `[REDACTED]`: private repositories, need-to-know basis | 🔴 CLASSIFIED |
+
+## 📊 SURVEILLANCE REPORT
+
+<div align="center">
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostEsso&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhostEsso&theme=github_dark)
+![Most committed language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhostEsso&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com/?user=GhostEsso&background=0d1117&ring=6b8e23&fire=b22222&currStreakLabel=6b8e23&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d)
+
+</div>
+
+## 📡 SECURE COMMS
+
+<details>
+<summary><b>🔓 DECLASSIFY CONTACT CHANNELS</b> (authorized recruiters and allies only)</summary>
+
+<br/>
+
+| CHANNEL | FREQUENCY |
+| :--- | :--- |
+| **ENCRYPTED MAIL** | lilipitaham@gmail.com |
+| **FIELD RADIO (WhatsApp)** | +22890516979 |
+
+</details>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-INTEL%20NETWORK-1b1f23?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/essohanam-tambana-62aa081a1/)
+[![Twitter](https://img.shields.io/badge/TWITTER-OPEN%20BROADCAST-1b1f23?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TambanaEssohana)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-HEADQUARTERS-1b1f23?style=for-the-badge&logo=vercel&logoColor=white)](https://phil-dev-ghostessos-projects.vercel.app/)
+
+## 🧾 INTERCEPTED TRANSMISSION
+
+<div align="center">
+
+![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GhostEsso&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
+![File access log](https://komarev.com/ghpvc/?username=GhostEsso&color=6b8e23&style=flat-square&label=FILE+ACCESS+LOG)
+
+<sub><code>END OF FILE // THIS DOCUMENT WILL NOT SELF-DESTRUCT, BUT PLEASE STAR RESPONSIBLY</code></sub>
+
+</div>
