@@ -4,26 +4,13 @@
 ![CLEARANCE](https://img.shields.io/badge/CLEARANCE-FULL--STACK-4b5320?style=for-the-badge)
 ![STATUS](https://img.shields.io/badge/STATUS-ACTIVE%20%2F%2F%20OPEN%20TO%20HIRE-2e7d32?style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=6B8E23&center=true&vCenter=true&width=640&lines=%3E+AUTHENTICATING...;%3E+ACCESS+GRANTED;%3E+OPENING+PERSONNEL+FILE+%23GHOST-ESSO;%3E+EYES+ONLY+%2F%2F+DO+NOT+FORK+WITHOUT+ORDERS)](https://github.com/GhostEsso)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=6B8E23&center=true&vCenter=true&width=760&lines=%3E+AUTHENTICATING...;%3E+ACCESS+GRANTED;%3E+OPENING+PERSONNEL+FILE+%23GHOST-ESSO;%3E+EYES+ONLY+%2F%2F+DO+NOT+FORK+WITHOUT+ORDERS)](https://github.com/GhostEsso)
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║  DEPARTMENT OF SOFTWARE ENGINEERING  //  PERSONNEL FILE              ║
-║  FILE No. GH-2022-0930                    CLASSIFICATION: TOP SECRET ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  CODENAME ......... GHOST                                            ║
-║  LEGAL NAME ....... Essohanam TAMBANA                                ║
-║  RANK ............. Full-Stack Software Developer                    ║
-║  UNIT ............. Kaba Delivery                                    ║
-║  BASE ............. Lomé, Togo                                       ║
-║  ENLISTED ......... 2022-09-30 (GitHub)                              ║
-║  SPECIALTY ........ React · Ruby on Rails · TypeScript               ║
-║  SIDEARM .......... Visual Studio Code                               ║
-║  LAST SEEN ........ ████████████ (pushing to main at 02:00)          ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="./assets/dossier.svg" width="100%" alt="Personnel file. Codename: GHOST. Legal name: Essohanam TAMBANA. Rank: Full-Stack Software Developer. Unit: Kaba Delivery. Base: Lomé, Togo. Enlisted on GitHub: 2022-09-30. Specialty: React, Ruby on Rails, TypeScript. Sidearm: Visual Studio Code. Classification: top secret." />
+</div>
 
 ## 🎖️ CODE OF CONDUCT
 
